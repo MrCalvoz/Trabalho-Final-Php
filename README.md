@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Sistema de Gerenciamento de Tarefas Pessoais
 
 Um sistema web para gerenciamento de tarefas pessoais desenvolvido em PHP com MySQL.
@@ -38,3 +39,6 @@ Usuário de teste:
 =======
 # Trabalho-Final-Php
 >>>>>>> 36f023da73e074a655ef6a2cae10a3bb37f081da
+=======
+# Trabalho-Final-Php
+>>>>>>> 14d2d31afbe84cf7900d6d68206ba6679fa2937a
